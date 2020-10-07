@@ -1,9 +1,7 @@
-# Welcome to the GraphBLAS Forum
+# Goals and premises
 
 The GraphBLAS Forum is an open effort to define standard building
 blocks for graph algorithms in the language of linear algebra.
-
-# Goals and premises
 
 We believe that the state of the art in constructing a large
 collection of graph algorithms in terms of linear algebraic operations
