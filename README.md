@@ -70,82 +70,81 @@ downloaded from
 
 # Reference Implementations
 
-	* SuiteSparse:GraphBLAS (latest version) can be downloaded from [http://faculty.cse.tamu.edu/davis/suitesparse.html here].
+* SuiteSparse:GraphBLAS (latest version) can be downloaded from [http://faculty.cse.tamu.edu/davis/suitesparse.html here].
 
-	* [https://github.com/IBM/ibmgraphblas IBM GraphBLAS]
+* [https://github.com/IBM/ibmgraphblas IBM GraphBLAS]
 
 
 # Projects developing implementations of the GraphBLAS
 
-	* [https://people.eecs.berkeley.edu/~aydin/CombBLAS/html/index.html MPI/C++ Combinatorial BLAS (CombBLAS)]
+* [https://people.eecs.berkeley.edu/~aydin/CombBLAS/html/index.html MPI/C++ Combinatorial BLAS (CombBLAS)]
 
-	* [http://graphulo.mit.edu Java Graphulo]
+* [http://graphulo.mit.edu Java Graphulo]
 
-	* [http://d4m.mit.edu Matlab/Octave D4M]
+* [http://d4m.mit.edu Matlab/Octave D4M]
 
-	* [http://domino.research.ibm.com/library/cyberdig.nsf/papers/607AD69B638C3BEF85257DA10061EC97/$File/rc25508.pdf GPI (IBM)] and [https://github.com/IBM/ibmgraphblas IBM GraphBLAS]
+* [http://domino.research.ibm.com/library/cyberdig.nsf/papers/607AD69B638C3BEF85257DA10061EC97/$File/rc25508.pdf GPI (IBM)] and [https://github.com/IBM/ibmgraphblas IBM GraphBLAS]
 
-	* [https://github.com/narayanan2004/GraphMat/tree/distributed_primitives_integration GraphPad (Intel)]
+* [https://github.com/narayanan2004/GraphMat/tree/distributed_primitives_integration GraphPad (Intel)]
 
-	* [https://github.com/cmu-sei/gbtl GraphBLAS Template Library (SEI/Indiana)]
+* [https://github.com/cmu-sei/gbtl GraphBLAS Template Library (SEI/Indiana)]
 
-	* [http://faculty.cse.tamu.edu/davis/suitesparse.html SuiteSparse Graph BLAS (Texas A&M)]
+* [http://faculty.cse.tamu.edu/davis/suitesparse.html SuiteSparse Graph BLAS (Texas A&M)]
 
-	* [https://github.com/gunrock/graphblast GraphBLAST (UC Davis and LBNL)]
+* [https://github.com/gunrock/graphblast GraphBLAST (UC Davis and LBNL)]
 
 
 # Graph analysis systems that integrate GraphBLAS
 
-	* [https://redislabs.com/redis-enterprise/redis-modules/redis-enterprise-modules/redisgraph/ RedisGraph: A Graph Database Module for Redis]
+* [https://redislabs.com/redis-enterprise/redis-modules/redis-enterprise-modules/redisgraph/ RedisGraph: A Graph Database Module for Redis]
 
-	* [https://github.com/michelp/pggraphblas pggraphblas: High Performance Graph Processing with PostgreSQL]
+* [https://github.com/michelp/pggraphblas pggraphblas: High Performance Graph Processing with PostgreSQL]
 
 
 # Workshops and conferences featuring the GraphBLAS (reverse chronological)
 
-	* [http://hpc.pnl.gov/grapl/ GrAPL 2020 @IPDPS]: Submission deadline February 1, 2020
+* [http://hpc.pnl.gov/grapl/ GrAPL 2020 @IPDPS]: Submission deadline February 1, 2020
 
-	*[https://sc19.supercomputing.org/session/?sess=sess319 SC2019 BOF on HPC Graph Toolkits and the GraphBLAS Forum]: Session is Wed 20 Nov, 5:15pm - 6:45pm
+*[https://sc19.supercomputing.org/session/?sess=sess319 SC2019 BOF on HPC Graph Toolkits and the GraphBLAS Forum]: Session is Wed 20 Nov, 5:15pm - 6:45pm
 
-	* [http://www.ieee-hpec.org/ HPEC 2019]: 
+* [http://www.ieee-hpec.org/ HPEC 2019]: 
 
-	* [http://hpc.pnl.gov/grapl/ GrAPL 2019 @IPDPS]:
+* [http://hpc.pnl.gov/grapl/ GrAPL 2019 @IPDPS]:
 
-	* [http://GraphChallenge.org/ GraphChallenge 2018]
+* [http://GraphChallenge.org/ GraphChallenge 2018]
 
-	* [http://ieee-hpec.org/2018/techprog2018.html HPEC 2018]
+* [http://ieee-hpec.org/2018/techprog2018.html HPEC 2018]
 
-	* [http://graphanalysis.org/workshop2018.html GABB 2018 @IPDPS]
+* [http://graphanalysis.org/workshop2018.html GABB 2018 @IPDPS]
 
-	* [http://graphchallenge.mit.edu/champions GraphChallenge 2017]
+* [http://graphchallenge.mit.edu/champions GraphChallenge 2017]
 
-	* [http://ieee-hpec.org/2017/techprog2017/sept13.htm HPEC 2017]
+* [http://ieee-hpec.org/2017/techprog2017/sept13.htm HPEC 2017]
 
-	* [http://graphanalysis.org/workshop2017.html GABB 2017 @IPDPS]
+* [http://graphanalysis.org/workshop2017.html GABB 2017 @IPDPS]
 
-	* [http://ieee-hpec.org/2016/techprog2016/sept14.htm HPEC 2016]
+* [http://ieee-hpec.org/2016/techprog2016/sept14.htm HPEC 2016]
 
-	* [http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=23074 Minisymposium 2016 @SIAM Annual Meeting]: [[SIAM Presentations]]
+* [http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=23074 Minisymposium 2016 @SIAM Annual Meeting]: [[SIAM Presentations]]
 
-	* [http://graphanalysis.org/workshop2016.html GABB 2016 @IPDPS]
+* [http://graphanalysis.org/workshop2016.html GABB 2016 @IPDPS]
 
-	* [http://www.ieee-hpec.org/2015/ HPEC 2015]
+* [http://www.ieee-hpec.org/2015/ HPEC 2015]
 
-	* [http://www.graphanalysis.org/workshop2015.html GABB 2015 @IPDPS]
+* [http://www.graphanalysis.org/workshop2015.html GABB 2015 @IPDPS]
 
-	* [http://www.ieee-hpec.org/2014/copy/agendatext.html HPEC 2014]
+* [http://www.ieee-hpec.org/2014/copy/agendatext.html HPEC 2014]
 
-	* [http://www.graphanalysis.org/workshop2014.html GABB 2014 @IPDPS]
+* [http://www.graphanalysis.org/workshop2014.html GABB 2014 @IPDPS]
 
-	* [http://ieee-hpec.org/2013/agenda.htm HPEC 2013]
+* [http://ieee-hpec.org/2013/agenda.htm HPEC 2013]
 
 
 # Blogs (and other interesting discussions) on GraphBLAS
 
-	* [http://aldenmath.com/blog Tim Davis's GraphBLAS blog]
-	
-	* [https://github.com/GraphBLAS/LAGraph/issues/28#issuecomment-542952115 A good discussion thread on dropping explicit zeros (fall 2019)]
+* [http://aldenmath.com/blog Tim Davis's GraphBLAS blog]
 
+* [https://github.com/GraphBLAS/LAGraph/issues/28#issuecomment-542952115 A good discussion thread on dropping explicit zeros (fall 2019)]
 
 # GraphBLAS mailing list
 
@@ -155,14 +154,14 @@ email message to our [mailto:abuluc@lbl.gov mailing list coordinator].
 
 # Steering Committee (alphabetical)
 
-	* [https://davidbader.net/ David Bader (NJIT)]
+* [https://davidbader.net/ David Bader (NJIT)]
 
-	* [https://people.eecs.berkeley.edu/~aydin/ Aydin Buluc (Berkeley Lab)]
+* [https://people.eecs.berkeley.edu/~aydin/ Aydin Buluc (Berkeley Lab)]
 
-	* [http://www.cs.ucsb.edu/~gilbert/ John Gilbert (UC Santa Barbara)]
+* [http://www.cs.ucsb.edu/~gilbert/ John Gilbert (UC Santa Barbara)]
 
-	* [http://www.mit.edu/~kepner/ Jeremy Kepner (MIT Lincoln Laboratory Supercomputing Center)]
+* [http://www.mit.edu/~kepner/ Jeremy Kepner (MIT Lincoln Laboratory Supercomputing Center)]
 
-	* Tim Mattson (Intel)
+* Tim Mattson (Intel)
 
-	* Henning Meyerhenke (KIT)
+* Henning Meyerhenke (KIT)
