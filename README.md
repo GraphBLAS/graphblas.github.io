@@ -1,7 +1,9 @@
-# Goals and premises
+# Welcome to the GraphBLAS Forum
 
 The GraphBLAS Forum is an open effort to define standard building
 blocks for graph algorithms in the language of linear algebra.
+
+# Goals and premises
 
 We believe that the state of the art in constructing a large
 collection of graph algorithms in terms of linear algebraic operations
@@ -19,6 +21,8 @@ multiplication is a step of breadth first search.  By generalizing the
 pair of scalar operations involved in the linear algebra computations
 to define a semiring, we can extend the range of these primitives to
 support a wide range of parallel graph algorithms.
+
+![An example graph and adjacency matrix](./AdjacencyMatrixBFS.png)
 
 # More information
 
