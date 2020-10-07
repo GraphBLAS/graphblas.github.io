@@ -25,6 +25,8 @@ support a wide range of parallel graph algorithms.
 
 # More information
 
+[The GraphBLAS Wikipedia Page](https://en.wikipedia.org/wiki/GraphBLAS)
+
 The C reference implementation is
 [SuiteSparse:GraphBLAS](http://faculty.cse.tamu.edu/davis/suitesparse.html).
 
@@ -38,6 +40,12 @@ Background information about graphs in the language of linear algebra
 can be found in the book: [Graph Algorithms in the Language of Linear
 Algebra](http://bookstore.siam.org/se22/), edited by J. Kepner and
 J. Gilbert, SIAM, 2011.
+
+[The Mathematics of Big
+Data](https://mitpress.mit.edu/books/mathematics-big-data) by
+J. Kepner and H. Jananthan is the first book to present the common
+mathematical foundations of big
+data analysis across a range of applications and technologies.
 
 A straw man proposal for the GraphBLAS can be found
 [here](http://gauss.cs.ucsb.edu/~aydin/combblas-r2.pdf)
