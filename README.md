@@ -22,6 +22,7 @@ support a wide range of parallel graph algorithms.
 
 ![An example graph and adjacency matrix](./AdjacencyMatrixBFS.png)
 
+
 # More information
 
 The C reference implementation is
@@ -48,11 +49,7 @@ of tutorial material.
 
 # Application Program Interface (API)
 
-A [short paper from
-IPDPSW'17](http://gauss.cs.ucsb.edu/~aydin/GABB17.pdf) describes the
-rationale behind the C API design.
-
-Version 1.0 (provisional) of the [[C language API]] is released on May
+Version 1.0 (provisional) of the C language API is released on May
 29, 2017 at the GABB workshop
 [here](http://graphanalysis.org/workshop2017.html).
 
@@ -69,15 +66,15 @@ downloaded from
 [here](http://people.eecs.berkeley.edu/~aydin/GraphBLAS_API_C_v13.pdf).
 
 
-# Reference Implementations
+# Projects developing implementations of the GraphBLAS
 
-* SuiteSparse:GraphBLAS (latest version) can be downloaded from
-  [here](http://faculty.cse.tamu.edu/davis/suitesparse.html here).
+* [SuiteSparse Graph BLAS (Texas A&M)](http://faculty.cse.tamu.edu/davis/suitesparse.html)
 
 * [IBM GraphBLAS](https://github.com/IBM/ibmgraphblas)
 
+* [GraphBLAS Template Library (SEI/Indiana)](https://github.com/cmu-sei/gbtl)
 
-# Projects developing implementations of the GraphBLAS
+* [GraphBLAST (UC Davis and LBNL)](https://github.com/gunrock/graphblast)
 
 * [MPI/C++ Combinatorial BLAS (CombBLAS)](https://people.eecs.berkeley.edu/~aydin/CombBLAS/html/index.html)
 
@@ -87,19 +84,24 @@ downloaded from
 
 * [GraphPad (Intel)](https://github.com/narayanan2004/GraphMat/tree/distributed_primitives_integration)
 
-* [GraphBLAS Template Library (SEI/Indiana)](https://github.com/cmu-sei/gbtl)
 
-* [SuiteSparse Graph BLAS (Texas A&M)](http://faculty.cse.tamu.edu/davis/suitesparse.html)
+# Programming Language Interfaces to The GraphBLAS API
 
-* [ GraphBLAST (UC Davis and LBNL)](https://github.com/gunrock/graphblast)
+* [MATLAB (comes with SuiteSparse)](http://faculty.cse.tamu.edu/davis/suitesparse.html)
+
+* [pygraphblas Python library](https://github.com/michelp/pygraphblas)
+
+* [grblas Python library](https://github.com/metagraph-dev/grblas)
+
+* [pggraphblas Postgres extension](https://github.com/michelp/pggraphblas)
+
+* [Julia libary](https://github.com/abhinavmehndiratta/SuiteSparseGraphBLAS.jl)
 
 
 # Graph analysis systems that integrate GraphBLAS
 
 * [RedisGraph: A Graph Database Module for
   Redis](https://redislabs.com/redis-enterprise/redis-modules/redis-enterprise-modules/redisgraph/)
-
-* [ pggraphblas: High Performance Graph Processing with PostgreSQL](https://github.com/michelp/pggraphblas)
 
 
 # Workshops and conferences featuring the GraphBLAS (reverse chronological)
