@@ -120,9 +120,17 @@ downloaded from
 
 * [GraphChallenge.org](http://GraphChallenge.org/)
 
+* [HPEC 2019](http://www.ieee-hpec.org/2019/)
+
+* [HPEC 2018](http://www.ieee-hpec.org/2018/)
+
 * [GABB 2018 @IPDPS](http://graphanalysis.org/workshop2018.html)
 
+* [HPEC 2017](http://www.ieee-hpec.org/2017/)
+
 * [GABB 2017 @IPDPS](http://graphanalysis.org/workshop2017.html)
+
+* [HPEC 2016](http://www.ieee-hpec.org/2016/)
 
 * [GABB 2016 @IPDPS](http://graphanalysis.org/workshop2016.html)
 
