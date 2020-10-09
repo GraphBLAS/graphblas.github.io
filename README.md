@@ -84,7 +84,7 @@ downloaded from
 
 * [GraphBLAST (UC Davis and LBNL)](https://github.com/gunrock/graphblast)
 
-* [MPI/C++ Combinatorial BLAS (CombBLAS)](https://people.eecs.berkeley.edu/~aydin/CombBLAS/html/index.html)
+* [MPI/C++ Combinatorial BLAS (CombBLAS)](https://github.com/PASSIONLab/CombBLAS)
 
 * [Java Graphulo](http://graphulo.mit.edu)
 
