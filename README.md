@@ -168,6 +168,6 @@ email message to our [mailing list coordinator](mailto:abuluc@lbl.gov).
 
 * [Jeremy Kepner (MIT Lincoln Laboratory Supercomputing Center)](http://www.mit.edu/~kepner/)
 
-* Tim Mattson (Intel)
+* [Tim Mattson (Intel)](http://timmattson.com/work/)
 
-* Henning Meyerhenke (KIT)
+* [Henning Meyerhenke (KIT)](https://www.informatik.hu-berlin.de/de/forschung/gebiete/macsy/Team/meyerhenke)
