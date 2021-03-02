@@ -128,6 +128,8 @@ downloaded from
 
 * [GraphChallenge.org](http://GraphChallenge.org/)
 
+* [HPEC 2020](http://www.ieee-hpec.org/2020/)
+
 * [HPEC 2019](http://www.ieee-hpec.org/2019/)
 
 * [HPEC 2018](http://www.ieee-hpec.org/2018/)
