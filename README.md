@@ -157,6 +157,8 @@ downloaded from
 
 # Videos and other interesting discussions on GraphBLAS
 
+* [Graph Analytics, by Tim Mattson and Henry Gabb, Intel](https://techdecoded.intel.io/big-picture/graph-analytics-a-foundational-building-block-for-the-data-analytics-world/#gs.x2ak71)
+
 * [Short video description of GraphBLAS](https://youtu.be/wqjRzC2fPUo)
 
 * [HPEC'20 presentation on GraphBLAS in Python and MATLAB](https://youtu.be/YuqoTxWnO8Y)
