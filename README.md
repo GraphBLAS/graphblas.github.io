@@ -157,11 +157,11 @@ downloaded from
 
 # Videos and other interesting discussions on GraphBLAS
 
-* [Short video description of GraphBLAS] (https://youtu.be/wqjRzC2fPUo)
+* [Short video description of GraphBLAS](https://youtu.be/wqjRzC2fPUo)
 
-* [HPEC'20 presentation on GraphBLAS in Python and MATLAB] (https://youtu.be/YuqoTxWnO8Y)
+* [HPEC'20 presentation on GraphBLAS in Python and MATLAB](https://youtu.be/YuqoTxWnO8Y)
 
-* [Presentation at UT Austin] (https://www.oden.utexas.edu/about/events/1520)
+* [Presentation at UT Austin](https://www.oden.utexas.edu/about/events/1520)
 
 * [A good discussion thread on dropping explicit zeros (fall
   2019)](https://github.com/GraphBLAS/LAGraph/issues/28#issuecomment-542952115)
