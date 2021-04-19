@@ -1,7 +1,9 @@
-# Goals and premises
+# The GraphBLAS
 
 The GraphBLAS Forum is an open effort to define standard building
 blocks for graph algorithms in the language of linear algebra.
+
+![An example graph and adjacency matrix](./AdjacencyMatrixBFS.png)
 
 We believe that the state of the art in constructing a large
 collection of graph algorithms in terms of linear algebraic operations
@@ -19,8 +21,6 @@ multiplication is a step of breadth first search.  By generalizing the
 pair of scalar operations involved in the linear algebra computations
 to define a semiring, we can extend the range of these primitives to
 support a wide range of parallel graph algorithms.
-
-![An example graph and adjacency matrix](./AdjacencyMatrixBFS.png)
 
 
 # More information
@@ -187,5 +187,61 @@ email message to our [mailing list coordinator](mailto:abuluc@lbl.gov).
 * [Tim Mattson (Intel)](http://timmattson.com/work/)
 
 * [Henning Meyerhenke (KIT)](https://www.informatik.hu-berlin.de/de/forschung/gebiete/macsy/Team/meyerhenke)
+
+## The GraphBLAS is supported by the following organizations
+
+<style>
+/* Grid */
+
+.column {
+  flex-basis: 100%;
+}
+
+@media screen and (min-width: 800px) {
+  .row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+  }
+  .column {
+    flex: 1;
+  }
+  ._25 {
+    flex: 2.5;
+  }
+  ._5 {
+    flex: 5;
+  }
+}
+/* Style */
+
+body {
+  font-family: 'Lato', sans-serif;
+  font-size: 1.3em;
+  color: #ccc;
+  background: #000;
+  margin-bottom: 70px;
+}
+
+.column {
+  padding: 15px;
+  border: 1px solid #666;
+  margin: 5px 0;
+  background: #343436;
+}
+
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+</style>
+
+<div>
+</div>
 
 #### The GraphBLAS logo is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (designer: Jakab Rokob)
