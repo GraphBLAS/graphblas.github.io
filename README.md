@@ -193,9 +193,34 @@ email message to our [mailing list coordinator](mailto:abuluc@lbl.gov).
 
 <table>
     <tr>
-    <td><img width="64" src="imgs/mit.png"/></td>
+    <td><img width="64" src="imgs/aristotle.png"/></td>
+    <td><img width="64" src="imgs/anaconda.png"/></td>
+    <td><img width="64" src="imgs/berkeley.png"/></td>
+    <td><img width="64" src="imgs/cmu.png"/></td>
+    <td><img width="64" src="imgs/cwi.png"/></td>
+    <td><img width="64" src="imgs/du.png"/></td>
+    </tr>
+    <tr>
+    <td><img width="64" src="imgs/graphegon.png"/></td>
+    <td><img width="64" src="imgs/humboldt.png"/></td>
+    <td><img width="64" src="imgs/imbr.png"/></td>
+    <td><img width="64" src="imgs/lucata.png"/></td>
     <td><img width="64" src="imgs/mitll.png"/></td>
+    <td><img width="64" src="imgs/mit.png"/></td>
+    </tr>
+    <tr>
+    <td><img width="64" src="imgs/njit.png"/></td>
+    <td><img width="64" src="imgs/nvidia.png"/></td>
+    <td><img width="64" src="imgs/pnnl.png"/></td>
+    <td><img width="64" src="imgs/redis.png"/></td>
+    <td><img width="64" src="imgs/romatre.png"/></td>
     <td><img width="64" src="imgs/tamu.png"/></td>
+    </tr>
+    <tr>
+    <td><img width="64" src="imgs/ucdavis.png"/></td>
+    <td><img width="64" src="imgs/ucsb.png"/></td>
+    <td><img width="64" src="imgs/unibz.png"/></td>
+    </tr>
 </table>
 
 
