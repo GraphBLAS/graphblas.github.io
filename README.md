@@ -193,13 +193,13 @@ email message to our [mailing list coordinator](mailto:abuluc@lbl.gov).
 
 <div class="row">
   <div class="column">
-    <img src="imgs/mit.png"/>
+    <img width="64" src="imgs/mit.png"/>
   <div/>
   <div class="column">
-    <img src="imgs/mitll.png"/>
+    <img width="64" src="imgs/mitll.png"/>
   <div/>
   <div class="column">
-    <img src="imgs/tamu.png"/>
+    <img width="64" src="imgs/tamu.png"/>
   <div/>
 </div>
 
