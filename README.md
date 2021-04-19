@@ -1,3 +1,34 @@
+<style>
+
+.column {
+  flex-basis: 100%;
+}
+
+@media screen and (min-width: 800px) {
+  .row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+  }
+  .column {
+    flex: 1;
+  }
+  ._25 {
+    flex: 2.5;
+  }
+  ._5 {
+    flex: 5;
+  }
+}
+
+.column {
+  padding: 15px;
+  border: 1px solid #666;
+  margin: 5px 0;
+}
+
+</style>
+
 # The GraphBLAS
 
 The GraphBLAS Forum is an open effort to define standard building
@@ -189,57 +220,6 @@ email message to our [mailing list coordinator](mailto:abuluc@lbl.gov).
 * [Henning Meyerhenke (KIT)](https://www.informatik.hu-berlin.de/de/forschung/gebiete/macsy/Team/meyerhenke)
 
 ## The GraphBLAS is supported by the following organizations
-
-<style>
-/* Grid */
-
-.column {
-  flex-basis: 100%;
-}
-
-@media screen and (min-width: 800px) {
-  .row {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-  }
-  .column {
-    flex: 1;
-  }
-  ._25 {
-    flex: 2.5;
-  }
-  ._5 {
-    flex: 5;
-  }
-}
-/* Style */
-
-body {
-  font-family: 'Lato', sans-serif;
-  font-size: 1.3em;
-  color: #ccc;
-  background: #000;
-  margin-bottom: 70px;
-}
-
-.column {
-  padding: 15px;
-  border: 1px solid #666;
-  margin: 5px 0;
-  background: #343436;
-}
-
-main {
-  max-width: 1200px;
-  margin: 0 auto;
-}
-
-h1,
-h2 {
-  text-align: center;
-}
-</style>
 
 <div>
 </div>
