@@ -191,25 +191,12 @@ email message to our [mailing list coordinator](mailto:abuluc@lbl.gov).
 ## The GraphBLAS is supported by the following organizations
 
 
-<div class="row">
-  <div class="column">
-    <img width="64" src="imgs/mit.png"/>
-  <div/>
-  <div class="column">
-    <img width="64" src="imgs/mitll.png"/>
-  <div/>
-  <div class="column">
-    <img width="64" src="imgs/tamu.png"/>
-  <div/>
-</div>
+<table>
+    <tr>
+    <td><img width="64" src="imgs/mit.png"/></td>
+    <td><img width="64" src="imgs/mitll.png"/></td>
+    <td><img width="64" src="imgs/tamu.png"/></td>
+</table>
 
-<style>
-
-.row {
-    display: flex;
-    flex-wrap: wrap;
-  }
-
-</style>
 
 ### The GraphBLAS logo is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (designer: Jakab Rokob)
