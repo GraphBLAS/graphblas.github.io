@@ -190,6 +190,7 @@ email message to our [mailing list coordinator](mailto:abuluc@lbl.gov).
 
 ## The GraphBLAS is supported by the following organizations
 
+
 <div class="row">
   <div class="column">
     <img src="imgs/mit.png"/>
@@ -201,8 +202,6 @@ email message to our [mailing list coordinator](mailto:abuluc@lbl.gov).
     <img src="imgs/tamu.png"/>
   <div/>
 </div>
-
-#### The GraphBLAS logo is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (designer: Jakab Rokob)
 
 <style>
 
@@ -227,11 +226,6 @@ email message to our [mailing list coordinator](mailto:abuluc@lbl.gov).
   }
 }
 
-.column {
-  padding: 15px;
-  border: 1px solid #666;
-  margin: 5px 0;
-}
-
 </style>
 
+### The GraphBLAS logo is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (designer: Jakab Rokob)
