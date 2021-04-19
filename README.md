@@ -205,17 +205,11 @@ email message to our [mailing list coordinator](mailto:abuluc@lbl.gov).
 
 <style>
 
-.column {
-  flex-basis: 100%;
-  flex: 1
-}
-
 .row {
     display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
   }
-  
+
 </style>
 
 ### The GraphBLAS logo is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (designer: Jakab Rokob)
