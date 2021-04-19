@@ -209,7 +209,7 @@ email message to our [mailing list coordinator](mailto:abuluc@lbl.gov).
   flex-basis: 100%;
 }
 
-@media screen and (min-width: 500px) {
+@media screen {
   .row {
     display: flex;
     flex-direction: row;
