@@ -209,15 +209,14 @@ email message to our [mailing list coordinator](mailto:abuluc@lbl.gov).
     <td><img width="64" src="imgs/mitll.png"/></td>
     </tr>
     <tr>
-    <td><img width="64" src="imgs/mit.png"/></td>
     <td><img width="64" src="imgs/njit.png"/></td>
     <td><img width="64" src="imgs/nvidia.png"/></td>
     <td><img width="64" src="imgs/pnnl.png"/></td>
     <td><img width="64" src="imgs/redis.png"/></td>
     <td><img width="64" src="imgs/romatre.png"/></td>
+    <td><img width="64" src="imgs/tamu.png"/></td>
     </tr>
     <tr>
-    <td><img width="64" src="imgs/tamu.png"/></td>
     <td><img width="64" src="imgs/ucdavis.png"/></td>
     <td><img width="64" src="imgs/ucsb.png"/></td>
     <td><img width="64" src="imgs/unibz.png"/></td>
