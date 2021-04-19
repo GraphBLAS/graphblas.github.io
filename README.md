@@ -188,8 +188,8 @@ email message to our [mailing list coordinator](mailto:abuluc@lbl.gov).
 
 * [Henning Meyerhenke (KIT)](https://www.informatik.hu-berlin.de/de/forschung/gebiete/macsy/Team/meyerhenke)
 
-## The GraphBLAS is supported by the following organizations
 
+# The GraphBLAS is supported by the following organizations
 
 <table>
     <tr>
@@ -223,5 +223,6 @@ email message to our [mailing list coordinator](mailto:abuluc@lbl.gov).
     </tr>
 </table>
 
-
 ### The GraphBLAS logo is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (designer: Jakab Rokob)
+
+
