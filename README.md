@@ -103,7 +103,7 @@ downloaded from
 
 * [pggraphblas Postgres extension](https://github.com/michelp/pggraphblas)
 
-* [Julia libary](https://github.com/abhinavmehndiratta/SuiteSparseGraphBLAS.jl)
+* [Julia library](https://github.com/JuliaSparse/SuiteSparseGraphBLAS.jl)
 
 
 # Graph analysis systems that integrate GraphBLAS
