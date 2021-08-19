@@ -220,6 +220,7 @@ email message to our [mailing list coordinator](mailto:abuluc@lbl.gov).
     <td><img width="64" src="imgs/ucdavis.png"/></td>
     <td><img width="64" src="imgs/ucsb.png"/></td>
     <td><img width="64" src="imgs/unibz.png"/></td>
+    <td><img width="64" src="imgs/JuliaComputing.jpg"/></td>
     </tr>
 </table>
 
