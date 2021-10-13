@@ -3,3 +3,7 @@ title: Welcome to the GraphBLAS Forum
 description: This site contains information related to the GraphBLAS Graph Linear Algebra API.
 logo: logo.png
 markdown: kramdown
+github:
+  is_project_page: true
+  repository_nwo: github.com/GraphBLAS
+  repository_url: https://github.com/GraphBLAS
