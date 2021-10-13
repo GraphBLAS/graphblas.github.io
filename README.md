@@ -228,7 +228,7 @@ email message to our [mailing list coordinator](mailto:abuluc@lbl.gov).
 
 Everyone interacting in the GraphBLAS project's codebases, issue
 trackers, chat rooms, online events, and mailing lists is expected to
-follow the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
+follow the [Contributor Covenant Code of Conduct](code_of_conduct.md).
 
 ### The GraphBLAS logo is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (designer: Jakab Rokob)
 
