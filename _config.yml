@@ -5,5 +5,6 @@ logo: logo.png
 markdown: kramdown
 github:
   is_project_page: true
+  is_user_page: false
   repository_nwo: github.com/GraphBLAS
   repository_url: https://github.com/GraphBLAS
