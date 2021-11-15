@@ -73,6 +73,10 @@ Version 1.3.0 (final) is released on September 25, 2019. It can be
 downloaded from
 [here](http://people.eecs.berkeley.edu/~aydin/GraphBLAS_API_C_v13.pdf).
 
+Version 2.0.0 (final) is released on November 15, 2021. It can be
+downloaded from
+[here](https://github.com/GraphBLAS/graphblas-api-c/files/7541426/GraphBLAS_API_C_2.0.0.pdf).
+
 
 # Projects developing implementations of the GraphBLAS
 
@@ -80,7 +84,7 @@ downloaded from
 
 * [IBM GraphBLAS](https://github.com/IBM/ibmgraphblas)
 
-* [GraphBLAS Template Library (SEI/Indiana)](https://github.com/cmu-sei/gbtl)
+* [GraphBLAS Template Library, GBTL (CMU-SEI/Indiana/PNNL)](https://github.com/cmu-sei/gbtl)
 
 * [GraphBLAST (UC Davis and LBNL)](https://github.com/gunrock/graphblast)
 
