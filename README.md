@@ -28,7 +28,8 @@ support a wide range of parallel graph algorithms.
 [The GraphBLAS Wikipedia Page](https://en.wikipedia.org/wiki/GraphBLAS)
 
 The C reference implementation is
-[SuiteSparse:GraphBLAS](http://faculty.cse.tamu.edu/davis/suitesparse.html).
+[SuiteSparse:GraphBLAS](http://faculty.cse.tamu.edu/davis/graphblas.html),
+which implements the version 2.0.0 (final) C API.
 
 Our 2013 manifesto for this project can be found
 [here](http://www.netlib.org/utk/people/JackDongarra/PAPERS/GraphPrimitives-HPEC.pdf).
@@ -80,7 +81,7 @@ downloaded from
 
 # Projects developing implementations of the GraphBLAS
 
-* [SuiteSparse Graph BLAS (Texas A&M)](http://faculty.cse.tamu.edu/davis/suitesparse.html)
+* [SuiteSparse GraphBLAS (Texas A&M)](http://faculty.cse.tamu.edu/davis/graphblas.html)
 
 * [IBM GraphBLAS](https://github.com/IBM/ibmgraphblas)
 
