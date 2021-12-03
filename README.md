@@ -52,7 +52,7 @@ A straw man proposal for the GraphBLAS can be found
 [here](http://gauss.cs.ucsb.edu/~aydin/combblas-r2.pdf)
 
 Gabor Szarnyas maintains a list of [GraphBLAS
-pointers](https://github.com/szarnyasg/graphblas-pointers) with lots
+pointers](https://graphblas.org/graphblas-pointers) with lots
 of tutorial material.
 
 
