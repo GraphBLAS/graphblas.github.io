@@ -111,6 +111,12 @@ Version 1.1.0 (provisional) released on November 14, 2017.
 
 # Workshops and conferences featuring the GraphBLAS (reverse chronological)
 
+* [Graphs, Architectures, Programming, and Learning (GrAPL) @IPDPS](http://hpc.pnl.gov/grapl/)
+
+* [High Performance Extreme Computing (HPEC)](http://www.ieee-hpec.org/)
+
+* [GraphChallenge.org](http://GraphChallenge.org/)
+
 * [SIAM CSE'21 GraphBLAS Minisymposium Session 1](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70090)
 
 * [SIAM CSE'21 GraphBLAS Minisymposium Session 2](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70091)
@@ -118,12 +124,6 @@ Version 1.1.0 (provisional) released on November 14, 2017.
 * [SIAM CSE'21 GraphBLAS Tutorial Session 1](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=69893)
 
 * [SIAM CSE'21 GraphBLAS Tutorial Session 2](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70367)
-
-* [Graphs, Architectures, Programming, and Learning (GrAPL) @IPDPS](http://hpc.pnl.gov/grapl/)
-
-* [High Performance Extreme Computing (HPEC)](http://www.ieee-hpec.org/)
-
-* [GraphChallenge.org](http://GraphChallenge.org/)
 
 * [HPEC 2020](http://www.ieee-hpec.org/2020/)
 
