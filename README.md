@@ -100,7 +100,10 @@ downloaded from
 
 # Programming Language Interfaces to The GraphBLAS API
 
-* [MATLAB (comes with SuiteSparse)](http://faculty.cse.tamu.edu/davis/suitesparse.html)
+* [MATLAB (comes with SuiteSparse)](http://faculty.cse.tamu.edu/davis/suitesparse.html).
+    MATLAB R2021a and later uses SuiteSparse:GraphBLAS v3.1 for C=A*B when A and B are sparse.
+[Release Notes](https://www.mathworks.com/help/releases/R2021a/matlab/release-notes.html),
+under Performance.
 
 * [pygraphblas Python library](https://github.com/michelp/pygraphblas)
 
