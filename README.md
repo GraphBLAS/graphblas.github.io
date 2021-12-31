@@ -52,32 +52,24 @@ A straw man proposal for the GraphBLAS can be found
 [here](http://gauss.cs.ucsb.edu/~aydin/combblas-r2.pdf)
 
 Gabor Szarnyas maintains a list of [GraphBLAS
-pointers](https://github.com/szarnyasg/graphblas-pointers) with lots
+pointers](https://graphblas.org/GraphBLAS-Pointers) with lots
 of tutorial material.
 
 
 # Application Program Interface (API)
 
-Version 1.0 (provisional) of the C language API is released on May
+## Current versions
+
+* [GraphBLAS C API, version 1.3.0](/docs/GraphBLAS_API_C_v1.3.0.pdf) (September 25, 2019)
+* [GraphBLAS C API, version 2.0.0](/docs/GraphBLAS_API_C_v2.0.0.pdf) (November 15, 2021)
+
+## Legacy versions
+
+Version 1.0 (provisional) of the C language API was released on May
 29, 2017 at the GABB workshop
 [here](http://graphanalysis.org/workshop2017.html).
-
-Version 1.1.0 (provisional) is released on November 14, 2017.
-
-Version 1.2.0 (final) is released on May 18, 2018. It can be
-downloaded from
-[here](http://people.eecs.berkeley.edu/~aydin/GraphBLAS_API_C_v12.pdf). This
-is only available for archival purposes, you should use the latest
-version 1.3.0 below.
-
-Version 1.3.0 (final) is released on September 25, 2019. It can be
-downloaded from
-[here](http://people.eecs.berkeley.edu/~aydin/GraphBLAS_API_C_v13.pdf).
-
-Version 2.0.0 (final) is released on November 15, 2021. It can be
-downloaded from
-[here](https://github.com/GraphBLAS/graphblas-api-c/files/7541426/GraphBLAS_API_C_2.0.0.pdf).
-
+Version 1.1.0 (provisional) released on November 14, 2017.
+[Version 1.2.0](/docs/GraphBLAS_API_C_v1.2.0.pdf) was released on May 18, 2018.
 
 # Projects developing implementations of the GraphBLAS
 
@@ -122,6 +114,12 @@ under Performance.
 
 # Workshops and conferences featuring the GraphBLAS (reverse chronological)
 
+* [Graphs, Architectures, Programming, and Learning (GrAPL) @IPDPS](http://hpc.pnl.gov/grapl/)
+
+* [High Performance Extreme Computing (HPEC)](http://www.ieee-hpec.org/)
+
+* [GraphChallenge.org](http://GraphChallenge.org/)
+
 * [SIAM CSE'21 GraphBLAS Minisymposium Session 1](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70090)
 
 * [SIAM CSE'21 GraphBLAS Minisymposium Session 2](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70091)
@@ -129,12 +127,6 @@ under Performance.
 * [SIAM CSE'21 GraphBLAS Tutorial Session 1](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=69893)
 
 * [SIAM CSE'21 GraphBLAS Tutorial Session 2](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70367)
-
-* [Graphs, Architectures, Programming, and Learning (GrAPL) @IPDPS](http://hpc.pnl.gov/grapl/)
-
-* [High Performance Extreme Computing (HPEC)](http://www.ieee-hpec.org/)
-
-* [GraphChallenge.org](http://GraphChallenge.org/)
 
 * [HPEC 2020](http://www.ieee-hpec.org/2020/)
 
