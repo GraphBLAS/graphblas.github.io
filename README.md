@@ -99,7 +99,7 @@ under Performance.
 
 * [pygraphblas Python library](https://github.com/michelp/pygraphblas)
 
-* [grblas Python library](https://github.com/metagraph-dev/grblas)
+* [python-graphblas Python library](https://github.com/python-graphblas/python-graphblas)
 
 * [pggraphblas Postgres extension](https://github.com/michelp/pggraphblas)
 
