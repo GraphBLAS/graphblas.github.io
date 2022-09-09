@@ -2,6 +2,7 @@
 ## a.k.a. The GraphBLAS Birds of a Feather (BOF)
 
 Co-chairs / Organizers:
+* [Benjamin Brock](mailto:bengamin.brock@intel.com), Intel Labs
 * [Scott McMillan](mailto:smcmillan@sei.cmu.edu), CMU Software Engineering Institute
 * [Timothy G. Mattson](mailto:timothy.g.mattson@intel.com), Intel Labs
 
@@ -11,11 +12,16 @@ Extreme Computing (HPEC) Conference](https://ieee-hpec.org/).
 
 ## 2022 Schedule
 
-* TBD
+When: 5:30PM EDT Tuesday, September 20
 
-If you are interested in presenting your work at this meeting please contact
-the organizers.
-
+* *Introduction and State of the GraphBLAS Committees*, Tim Mattson
+* *GraphBLAS C Committee Update*, Manoj Kumar
+* *GraphBLAS C++ Spec Update*, Benjamin Brock
+* *LAGraph Update*, TBD
+* Implementor Updates
+   * *SuiteSparse Update*, Tim Davis
+   * *Python GraphBLAS Update*, Erik Welch and Jim Kitchen
+* Keynote: *What GraphBLAS Got Wrong and How to Fix It*, John Gilbert 
 
 ## 2021 Schedule
 
