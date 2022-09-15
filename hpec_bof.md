@@ -21,6 +21,7 @@ When: 5:30PM EDT Tuesday, September 20
 * Implementor Updates
    * *SuiteSparse Update*, Tim Davis
    * *Python GraphBLAS Update*, Erik Welch and Jim Kitchen
+   * *C++ GraphBLAS Update*, Albert-Jan Yzelman
 * Keynote: *What GraphBLAS Got Wrong and How to Fix It*, John Gilbert 
 
 ## 2021 Schedule
