@@ -157,6 +157,8 @@ under Performance.
 
 # Videos and other interesting discussions on GraphBLAS
 
+* [GraphBLAS Forum Update at SC'22](/docs/GraphBLAS_Update-SC22-FINAL.pdf) (November 15, 2022)
+
 * [Graph Analytics, by Tim Mattson and Henry Gabb, Intel](https://techdecoded.intel.io/big-picture/graph-analytics-a-foundational-building-block-for-the-data-analytics-world/#gs.x2ak71)
 
 * [Short video description of GraphBLAS](https://youtu.be/wqjRzC2fPUo)
