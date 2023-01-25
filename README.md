@@ -97,7 +97,7 @@ Version 1.1.0 (provisional) released on November 14, 2017.
 [Release Notes](https://www.mathworks.com/help/releases/R2021a/matlab/release-notes.html),
 under Performance.
 
-* [pygraphblas Python library](https://github.com/michelp/pygraphblas)
+* [pygraphblas Python library](https://github.com/Graphegon/pygraphblas)
 
 * [python-graphblas Python library](https://github.com/python-graphblas/python-graphblas)
 
