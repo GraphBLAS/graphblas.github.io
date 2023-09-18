@@ -110,9 +110,7 @@ under Performance.
 
 # Graph analysis systems that integrate GraphBLAS
 
-* [RedisGraph: A Graph Database Module for
-  Redis](https://redislabs.com/redis-enterprise/redis-modules/redis-enterprise-modules/redisgraph/)
-
+* [FalkorDB - a queryable Property Graph database](https://github.com/falkordb/falkordb) - formerly RedisGraph
 
 # Workshops and conferences featuring the GraphBLAS (reverse chronological)
 
