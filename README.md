@@ -97,6 +97,8 @@ Version 1.1.0 (provisional) released on November 14, 2017.
 [Release Notes](https://www.mathworks.com/help/releases/R2021a/matlab/release-notes.html),
 under Performance.
 
+* [forGraphBLASGo - Go binding for SuiteSparse:GraphBLAS](https://pkg.go.dev/github.com/intel/forGraphBLASGo)
+
 * [pygraphblas Python library](https://github.com/Graphegon/pygraphblas)
 
 * [python-graphblas Python library](https://github.com/python-graphblas/python-graphblas)
@@ -108,9 +110,7 @@ under Performance.
 
 # Graph analysis systems that integrate GraphBLAS
 
-* [RedisGraph: A Graph Database Module for
-  Redis](https://redislabs.com/redis-enterprise/redis-modules/redis-enterprise-modules/redisgraph/)
-
+* [FalkorDB - a queryable Property Graph database](https://github.com/falkordb/falkordb) - formerly RedisGraph
 
 # Workshops and conferences featuring the GraphBLAS (reverse chronological)
 
