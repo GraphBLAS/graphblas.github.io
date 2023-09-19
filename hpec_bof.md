@@ -2,13 +2,28 @@
 ## a.k.a. The GraphBLAS Birds of a Feather (BOF)
 
 Co-chairs / Organizers:
-* [Benjamin Brock](mailto:bengamin.brock@intel.com), Intel Labs
 * [Scott McMillan](mailto:smcmillan@sei.cmu.edu), CMU Software Engineering Institute
-* [Timothy G. Mattson](mailto:timothy.g.mattson@intel.com), Intel Labs
+* [Timothy G. Mattson](mailto:tim@timmattson.com), The Human Learning Group
 
 The GraphBLAS Forum members and anyone else is invited to attend this
 meeting that occurs every year in September at the [IEEE High Performance
 Extreme Computing (HPEC) Conference](https://ieee-hpec.org/).
+
+## 2023 Schedule
+
+When: 5:30PM EDT Tuesday, September 26
+
+* *Welcome Message*, Tim Mattson/Scott McMillan
+* Keynote: *GraphBLAS and NetworkX*, TBD
+* *GraphBLAS C Committee Update*, TBD
+* *GraphBLAS C++ Committee Update*, Benjamin Brock
+* Implementor Updates
+   * *SuiteSparse Update*, Tim Davis
+   * *Python GraphBLAS Update*, Erik Welch/Jim Kitchen
+   * *Go GraphBLAS Update*, Pascal Costanza
+* Community Discussion:
+   * *Passing the Baton*, Tim Mattson/Scott McMillan
+   * *It is time to stop writing API Specifications!*, Jose Moreira 
 
 ## 2022 Schedule
 
