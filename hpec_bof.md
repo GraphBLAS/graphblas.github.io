@@ -14,12 +14,12 @@ Extreme Computing (HPEC) Conference](https://ieee-hpec.org/).
 When: 5:30PM EDT Tuesday, September 26
 
 * *Welcome Message*, Tim Mattson/Scott McMillan
-* Keynote: *GraphBLAS and NetworkX*, TBD
-* *GraphBLAS C Committee Update*, TBD
+* Keynote: *GraphBLAS and NetworkX*, Erik Welch
+* *GraphBLAS C Committee Update*, Tim Mattson
 * *GraphBLAS C++ Committee Update*, Benjamin Brock
 * Implementor Updates
    * *SuiteSparse Update*, Tim Davis
-   * *Python GraphBLAS Update*, Erik Welch/Jim Kitchen
+   * *Python GraphBLAS Update*, Jim Kitchen
    * *Go GraphBLAS Update*, Pascal Costanza
 * Community Discussion:
    * *Passing the Baton*, Tim Mattson/Scott McMillan
