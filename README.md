@@ -170,6 +170,8 @@ under Performance.
 * [A good discussion thread on dropping explicit zeros (fall
   2019)](https://github.com/GraphBLAS/LAGraph/issues/28#issuecomment-542952115)
 
+* [A YouTube video playlist on GraphBLAS topics](https://www.youtube.com/playlist?list=PL5EvFKC69QIw3FqXj7UmiN1p-a-qYnZVK)
+
 # GraphBLAS mailing list
 
 If you wish to join our effort (or just watch it), please send an
