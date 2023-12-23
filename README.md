@@ -60,9 +60,9 @@ of tutorial material.
 
 ## Current versions
 
-* [GraphBLAS C API, version 1.3.0](/docs/GraphBLAS_API_C_v1.3.0.pdf) (September 25, 2019)
 * [GraphBLAS C API, version 2.0.0](/docs/GraphBLAS_API_C_v2.0.0.pdf) (November 15, 2021)
-
+* [GraphBLAS C API, version 2.1.0](/docs/GraphBLAS_API_C_v2.1.0.pdf) (December 22, 2023)
+ 
 ## Legacy versions
 
 Version 1.0 (provisional) of the C language API was released on May
@@ -70,6 +70,7 @@ Version 1.0 (provisional) of the C language API was released on May
 [here](http://graphanalysis.org/workshop2017.html).
 Version 1.1.0 (provisional) released on November 14, 2017.
 [Version 1.2.0](/docs/GraphBLAS_API_C_v1.2.0.pdf) was released on May 18, 2018.
+[Version 1.3.0](/docs/GraphBLAS_API_C_v1.3.0.pdf)  was released on September 25, 2019.
 
 # Projects developing implementations of the GraphBLAS
 
