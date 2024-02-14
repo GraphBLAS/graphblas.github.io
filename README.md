@@ -29,7 +29,7 @@ support a wide range of parallel graph algorithms.
 
 The C reference implementation is
 [SuiteSparse:GraphBLAS](http://faculty.cse.tamu.edu/davis/GraphBLAS.html),
-which implements the version 2.0.0 (final) C API.
+which implements the version 2.1.0 (final) C API.
 
 Our 2013 manifesto for this project can be found
 [here](http://www.netlib.org/utk/people/JackDongarra/PAPERS/GraphPrimitives-HPEC.pdf).
