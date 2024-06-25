@@ -2,12 +2,19 @@
 ## a.k.a. The GraphBLAS Birds of a Feather (BOF)
 
 Co-chairs / Organizers:
-* [Scott McMillan](mailto:smcmillan@sei.cmu.edu), CMU Software Engineering Institute
 * [Timothy G. Mattson](mailto:tim@timmattson.com), The Human Learning Group
+* [Benjamin Brock](mailto:benjamin.brock@intel.com), Intel, Parallel Computing Lab
+* [Scott McMillan](mailto:smcmillan@sei.cmu.edu), CMU Software Engineering Institute
 
 The GraphBLAS Forum members and anyone else is invited to attend this
 meeting that occurs every year in September at the [IEEE High Performance
 Extreme Computing (HPEC) Conference](https://ieee-hpec.org/).
+
+## 2024 Schedule
+
+When: 5:30PM EDT Tuesday, September 24 (tentative).
+
+TBD
 
 ## 2023 Schedule
 
