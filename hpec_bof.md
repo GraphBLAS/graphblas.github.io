@@ -10,11 +10,19 @@ The GraphBLAS Forum members and anyone else is invited to attend this
 meeting that occurs every year in September at the [IEEE High Performance
 Extreme Computing (HPEC) Conference](https://ieee-hpec.org/).
 
-## 2024 Schedule
+## 2024 Schedule (tentative)
 
-When: 5:30PM EDT Tuesday, September 24 (tentative).
+When: 5:30-7:30PM EDT Tuesday, September 24.
 
-TBD
+* *Welcome Message*, Tim Mattson/Ben Brock
+* *Wild and crazy ideas for GraphBLAS 3.0*, Raye Kimmerer
+* *Report on the binsparse Specification*, Ben Brock
+* Implementor Updates
+   * *SuiteSparse Update*, Tim Davis
+   * *Python GraphBLAS Update*, Jim Kitchen/Erik Welch
+   * *Julia GraphBLAS Update*, Raye Kimmerer
+* Keynote: *The future of sparse computing is compilers*, Fredrik Kjolstad, Stanford
+* Community Discussion
 
 ## 2023 Schedule
 
