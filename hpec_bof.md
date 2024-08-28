@@ -21,6 +21,7 @@ When: 5:30-7:30PM EDT Tuesday, September 24.
    * *SuiteSparse Update*, Tim Davis
    * *Python GraphBLAS Update*, Jim Kitchen/Erik Welch
    * *Julia GraphBLAS Update*, Raye Kimmerer
+   * *Postgres GraphBLAS Update*, Michel Pelletier
 * Keynote: *The future of sparse computing is compilers*, Fredrik Kjolstad, Stanford
 * Community Discussion
 
