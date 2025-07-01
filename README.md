@@ -206,11 +206,11 @@ email message to our [mailing list coordinator](mailto:abuluc@lbl.gov).
     <td><img width="64" src="imgs/du.png"/></td>
     </tr>
     <tr>
-    <td><img width="64" src="imgs/graphegon.png"/></td>
+    <td><img width="64" src="imgs/onesparse.png"/></td>
     <td><img width="64" src="imgs/humboldt.png"/></td>
     <td><img width="64" src="imgs/intel.png"/></td>
     <td><img width="64" src="imgs/imbr.png"/></td>
-    <td><img width="64" src="imgs/lucata.png"/></td>
+    <td><img width="64" src="imgs/falkor.png"/></td>
     <td><img width="64" src="imgs/mit.png"/></td>
     </tr>
     <tr>
