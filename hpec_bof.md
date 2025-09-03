@@ -16,7 +16,7 @@ When: 5:30-7:30PM EDT Tuesday, September 16.
 
 * *Welcome Message*, Ben Brock, Intel
 * *GraphBLAS APIs: The Math Spec*, Tim Mattson
-* Keynote: *Postgres, GraphBLAS, and the HNSW Algorithm*, Michel Pelletier, OneSparse
+* Keynote: *Postgres and GraphBLAS*, Michel Pelletier, OneSparse
 * *SuiteSparse GraphBLAS and LAGraph: progress report and future directions*, Tim Davis, Texas A&M
 * Panel Discussion: *What's missing from the GraphBLAS*
 
