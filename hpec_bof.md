@@ -10,11 +10,16 @@ The GraphBLAS Forum members and anyone else is invited to attend this
 meeting that occurs every year in September at the [IEEE High Performance
 Extreme Computing (HPEC) Conference](https://ieee-hpec.org/).
 
-## 2025 Schedule
+## 2025 Schedule (Preliminary)
 
 When: 5:30-7:30PM EDT Tuesday, September 16.
 
-Schedule TBD
+* *Welcome Message*, Ben Brock, Intel
+* *GraphBLAS APIs: The Math Spec*, Tim Mattson
+* Keynote: *Postgres, GraphBLAS, and the HNSW Algorithm*, Michel Pelletier, OneSparse
+* *SuiteSparse GraphBLAS and LAGraph: progress report and future directions*, Tim Davis, Texas A&M
+* Panel Discussion: *What's missing from the GraphBLAS*
+
 
 ## 2024 Schedule
 
