@@ -158,7 +158,7 @@ under Performance.
 
 # Videos and other interesting discussions on GraphBLAS
 
-* [GraphBLAS Forum Update at SC'25] (/docs/GraphBLAS_Update_SC25.pdf) (November 19, 2025)
+* [GraphBLAS Forum Update at SC'25](/docs/GraphBLAS_Update_SC25.pdf) (November 19, 2025)
   
 * [GraphBLAS Forum Update at SC'22](/docs/GraphBLAS_Update-SC22-FINAL.pdf) (November 15, 2022)
 
