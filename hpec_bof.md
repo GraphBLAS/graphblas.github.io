@@ -12,9 +12,14 @@ Extreme Computing (HPEC) Conference](https://ieee-hpec.org/).
 
 ## 2026 Schedule
 
-When: Tentatively 5:30-7:30PM EDT Tuesday, September 15.
+When: 5:30-7:30PM EDT Tuesday, September 15.
 
-Program TBD.
+* *Welcome Message* 
+* *GraphBLAS Math Specification and other API updates*
+* *SuiteSparse GraphBLAS and LAGraph: progress report and future directions*, Tim Davis, Texas A&M
+* Keynote: *Standardization for Automatic Sparsity in the Open Source Ecosystem*, Willow Ahrens, Asst. Prof, Georgia Tech
+* Panel Discussion: *Low Level Primitives for Implementing Highly Performant GraphBLAS*, Michel Pelletier, Jim Kitchen, Erik Welch, and Rachael Sexton
+
 
 
 ## 2025 Schedule
