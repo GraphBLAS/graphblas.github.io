@@ -119,6 +119,8 @@ under Performance.
 
 * [High Performance Extreme Computing (HPEC)](http://www.ieee-hpec.org/)
 
+    * [HPEC BoF](https://graphblas.org/hpec_bof.html)
+
 * [GraphChallenge.org](http://GraphChallenge.org/)
 
 * [SIAM CSE'21 GraphBLAS Minisymposium Session 1](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70090)
